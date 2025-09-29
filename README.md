@@ -3,7 +3,7 @@
 A microcontroller-based RGB LED controller built with **Arduino (C++)** and the **FastLED** library.  
 This project allows real-time color control using potentiometers, with support for brightness and theme saving.
 
----
+![rgb-control-clip](https://github.com/user-attachments/assets/0e8fb5d1-30db-411b-8d6c-38aa18fc59d8)
 
 ## Features
 - Control RGB LED strips (WS2811/WS2812) with Arduino.
