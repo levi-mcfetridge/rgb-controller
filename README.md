@@ -5,6 +5,11 @@ This project allows real-time color control using potentiometers, with support f
 
 ![rgb-control-clip](https://github.com/user-attachments/assets/0e8fb5d1-30db-411b-8d6c-38aa18fc59d8)
 ![box](https://github.com/user-attachments/assets/2ccdc36e-7628-4356-b48e-43289cb02091)
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/2ccdc36e-7628-4356-b48e-43289cb02091">
+    <img src="https://github.com/user-attachments/assets/2ccdc36e-7628-4356-b48e-43289cb02091" alt="3D printed enclosure" width="540">
+  </a>
+</p>
 ## Features
 - Control RGB LED strips (WS2811/WS2812) with Arduino.
 - Real-time adjustment of **Red, Green, and Blue** values via potentiometers.
