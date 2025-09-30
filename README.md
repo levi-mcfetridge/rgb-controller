@@ -41,7 +41,7 @@ Install the library via Arduino IDE:
 
 ## Notes
 
-- Was unable to find the original 3D files for the enclosure (image below)
+- The original 3D CAD files for the enclosure are currently unavailable (image below).
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/2ccdc36e-7628-4356-b48e-43289cb02091">
